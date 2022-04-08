@@ -6,7 +6,7 @@
 * Knight
 * Vagabond
 
->Magic is cheating
+>Magic is cheating (but is it really though?)
 
 ---
 

@@ -1,3 +1,6 @@
+# Lab Reports
+[Lab Report 1](lab-report-1-week2.html)
+
 # Elden Ring Class Tier List
 
 ## *Branden's Top 3:*

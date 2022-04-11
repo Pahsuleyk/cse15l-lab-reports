@@ -35,6 +35,9 @@ ___
 ## Setting an SSH Key
 
 This process was slightly confusing as I had to generate the key clientside then secure copy the key with its directory onto the server. Then, I tested it by connecting to my account and saw that no password was required. This process is such a timesaver since I no longer had to hope that I had typed my password in correctly or not.
+
+![keygenSS](keygenSS.png)
+
 ___
 ## Optimizing Remote Running
 

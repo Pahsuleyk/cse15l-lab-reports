@@ -22,6 +22,7 @@ There were a a decent amount of commands to use but some noticeable ones were:
 * **cat** - displays contents of specified file
 * **ls** - lists all files in current directory
 
+![Testing Commands](cmd_test.png)
 
 ___
 ## Moving Files with scp

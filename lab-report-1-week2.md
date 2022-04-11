@@ -9,6 +9,8 @@ ___
 ## Remotely Connecting
 
 To remotely connect to the CSE15L account, I first had to make sure that I had OpenSSH installed, which allows me to connect to a server on my client. Thankfully it was already installed so all I had to do was open up a terminal and use `ssh username@hostname` to connect. Then, I had to enter the password for the account and bam... remote connection successful.
+
+![Remote Connnection Success](rem_connect.png)
 ___
 ## Trying Some Commands
 

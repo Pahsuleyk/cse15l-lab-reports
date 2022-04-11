@@ -41,6 +41,6 @@ This process was slightly confusing as I had to generate the key clientside then
 ___
 ## Optimizing Remote Running
 
+To optimize remote connection usage, its best to try to condense what you can in the fewest commands possible. First is to get a ssh key set up already so the password is always bypassed. Then there you can connect to the server and use cmds by adding "(cmd);(cmd)" after the server in the ssh command to run multiple commands at once.
 
-Lab 2 Screenshot:
-![ss1](CSE_15L_SS.png)
+![optimizedCMD](optimizedCmd.png)

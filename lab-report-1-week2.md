@@ -16,6 +16,12 @@ To remotely connect to the CSE15L account, I first had to make sure that I had O
 ___
 ## Trying Some Commands
 
+There were a a decent amount of commands to use but some noticeable ones were:
+
+* **cd** - changes current directory
+* **cat** - displays contents of specified file
+* **ls** - lists all files in current directory
+
 
 ___
 ## Moving Files with scp

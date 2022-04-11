@@ -3,6 +3,9 @@ ___
 ## Installing VScode
 
 A simple process really, to install VScode, all I had to do go to the [Visual Studio Code website](https://code.visualstudio.com/) and download right version for my PC. In my case I downloaded the windows ver. and installed it. Upon opending the application, everything seemed to run fine.
+
+![VScode Fully Setup](VScode_set.png)
+
 ___
 ## Trying Some Commands
 ___

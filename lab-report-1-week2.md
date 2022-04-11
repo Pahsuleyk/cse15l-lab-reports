@@ -28,6 +28,9 @@ ___
 ## Moving Files with scp
 
 The process of moving files from client to server was not that difficult. Only taking a few minutes, using the scp command was just `scp (file name) (recipient)` and then a password promt. Entering the password was what made this process longer than it should have been.
+
+![scp Test](scp_ss.png)
+
 ___
 ## Setting an SSH Key
 ___

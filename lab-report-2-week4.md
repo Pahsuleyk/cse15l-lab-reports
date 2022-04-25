@@ -12,7 +12,7 @@ This code change in the `MarkdownParse.java` file was meant to fix the very [fir
 
 ![Code Change 2](bugfix2.png)
 
-aa
+The reason for this code change in `MarkdownParse.java` was yet another infinite loop caused by this [test file](https://github.com/henrigy/markdown-parser/blame/main/test-file3.md). The error was caused by an index out of bounds when searching for an open parentheses since there was no parentheses after the line `[link3]`. With this fix, the loop would break if it was unable to find and parentheses after an end bracket.
 
 ### Fix #3:
 

@@ -2,6 +2,20 @@
 ___
 ## Fixing Bugs
 
-### Part 1'
+### Fix #1:
+
+![]
 
 ss
+
+### Fix #2:
+
+![]
+
+aa
+
+### Fix #3:
+
+![]
+
+aa

@@ -18,4 +18,4 @@ The reason for this code change in `MarkdownParse.java` was yet another infinite
 
 ![Code Change 3](bugfix3.png)
 
-aa
+This was our final code change in the `MarkdownParse.java` file which addressed yet another infinite loop bug caused by the symptom of `IndexOutOfBoundsException`. The test cases that broke this tester was [`test-file2.md`](https://github.com/henrigy/markdown-parser/blame/main/test1.md) and [`test-file8.md`](https://github.com/henrigy/markdown-parser/blame/main/test7.md) from lab 4. This fix stopped an infinite loop from occuring due to a bracket showing up and starting a loop that won't end.

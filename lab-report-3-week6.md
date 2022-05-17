@@ -29,7 +29,7 @@ Then after gettting that set up, I made a repository, and created a test file to
 ![last ss](Writeup3_SS/commit_last.png)
 
 Finally heres the commit on Github itself:
-[https://github.com/Pahsuleyk/labreport3/commit/ad7ba12c92aa5b4f65226cf4a7c63177c5feeb5d]
+[https://github.com/Pahsuleyk/labreport3/commit/ad7ba12c92aa5b4f65226cf4a7c63177c5feeb5d](https://github.com/Pahsuleyk/labreport3/commit/ad7ba12c92aa5b4f65226cf4a7c63177c5feeb5d)
 ![github commit](Writeup3_SS/result_commit.png)
 
 ___

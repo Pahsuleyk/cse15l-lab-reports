@@ -36,3 +36,8 @@ ___
 ## Copy whole directories with `scp -r`
 
 We've known about `scp` which allows us to copy over a file at a time. But by adding `-r` after `scp`, we are able to copy whole directories in a single command. Doing so we optimize our time and spend less effort trying to individually copy files. This command is really helpful for bulk files needing to be copied.
+
+Below I'm copying over the entire markdown-parse repository into the remote server:
+![scp -r first](Writeup3_SS/scp-r_first.png)
+![scp -r last](Writeup3_SS/scp-r_last.png)
+

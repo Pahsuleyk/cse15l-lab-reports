@@ -9,6 +9,10 @@ Below is my `.ssh/config` file created and edited using VScode:
 
 Then I ran a test by loggin into my remote server account using the alias:
 ![alias login](streamlined_login.png)
+
+Final test used `scp` command to copy a file from my pc onto the remote server using the alias:
+![alias used scp](alias_scp.png)
+
 ___
 ## Setup Github Access from ieng6
 

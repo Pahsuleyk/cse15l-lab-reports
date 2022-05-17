@@ -30,7 +30,7 @@ Then after gettting that set up, I made a repository, and created a test file to
 
 Finally heres the commit on Github itself:
 https://github.com/Pahsuleyk/labreport3/commit/ad7ba12c92aa5b4f65226cf4a7c63177c5feeb5d
-![github commit](result_commit.png)
+![github commit](Writeup3_SS/result_commit.png)
 
 ___
 ## Copy whole directories with `scp -r`

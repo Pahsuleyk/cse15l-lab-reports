@@ -29,8 +29,10 @@ Then after gettting that set up, I made a repository, and created a test file to
 ![last ss](commit_last.png)
 
 Finally heres the commit on Github itself:
-https://pahsuleyk.github.io/cse15l-lab-reports/
+https://github.com/Pahsuleyk/labreport3/commit/ad7ba12c92aa5b4f65226cf4a7c63177c5feeb5d
 ![github commit](result_commit.png)
 
 ___
 ## Copy whole directories with `scp -r`
+
+We've known about `scp` which allows us to copy over a file at a time. But by adding `-r` after `scp`, we are able to copy whole directories in a single command. Doing so we optimize our time and spend less effort trying to individually copy files. This command is really helpful for bulk files needing to be copied.

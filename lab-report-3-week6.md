@@ -41,6 +41,9 @@ Below I'm copying over the entire markdown-parse repository into the remote serv
 ![scp -r first](Writeup3_SS/scp-r_first.png)
 ![scp -r last](Writeup3_SS/scp-r_last.png)
 
+And the results from testing in the remote server:
+![ieng6 result](Writeup3_SS/ieng6_test.png)
+
 Finally heres the way to do it all in one cmd:
 ![one line](Writeup3_SS/oneliner.png)
 ![final one line](Writeup3_SS/resultliner.png)

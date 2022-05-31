@@ -25,6 +25,7 @@ Unfortunately, my Markdown-Parse failed to pass this test
 Running the test on the reviewed Markdown-Parse repository ended up failing
 
 ### Is a Code Change Under 10 Lines Possible?
+A code change can be made under 10 lines by making a checker for backticks. By creating a simple counter for backticks, one can make it so that if a open/closed braket or open parenthesis is withing a set of backticks, invalidate the link and break the loop, preventing the link from being in the output.
 ___
 ## Snippet 2
 ### Coded Test
@@ -43,6 +44,7 @@ Unfortunately, my Markdown-Parse failed to pass this test
 Running the test on the reviewed Markdown-Parse repository ended up failing
 
 ### Is a Code Change Under 10 Lines Possible?
+It is possible to make a code change under 10 lines for this snippet to account for extra parenthasis. Simply make a few lines of code and set up a counter for open brakets and parenthasis. Every open parenthasis/braket raises the count by 1 and every closed counterpart lowers the count by one. Once the counter starts, the momnet it hits 0 is when it should complete the link and therefore provide the full link output.
 ___
 ## Snippet 3
 ### Coded Test

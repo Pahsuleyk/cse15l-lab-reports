@@ -18,6 +18,11 @@ The junit test for this snippet is expected to return `['google.com]`
 ![My test 1](Writeup4_SS/test1.png)
 
 Unfortunately, my Markdown-Parse failed to pass this test
+
+### Running the test on another Markdown-Parse
+![Reviewed test1](Writeup4_SS/othertest1.png)
+
+Running the test on the reviewed Markdown-Parse repository ended up failing
 ___
 ## Snippet 2
 ### Coded Test
@@ -29,6 +34,11 @@ The junit test for this snippet is expected to return `[a.com, a.com(()), exampl
 ![My test 1](Writeup4_SS/test2.png)
 
 Unfortunately, my Markdown-Parse failed to pass this test
+
+### Running the test on another Markdown-Parse
+![Reviewed test1](Writeup4_SS/othertest2.png)
+
+Running the test on the reviewed Markdown-Parse repository ended up failing
 ___
 ## Snippet 3
 ### Coded Test
@@ -40,3 +50,8 @@ The junit test for this snippet is expected to return `[https://sites.google.com
 ![My test 1](Writeup4_SS/test3.png)
 
 Unfortunately, my Markdown-Parse failed to pass this test
+
+### Running the test on another Markdown-Parse
+![Reviewed test1](Writeup4_SS/othertest3.png)
+
+Running the test on the reviewed Markdown-Parse repository ended up failing

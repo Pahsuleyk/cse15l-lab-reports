@@ -63,3 +63,4 @@ Unfortunately, my Markdown-Parse failed to pass this test
 Running the test on the reviewed Markdown-Parse repository ended up failing
 
 ### Is a Code Change Under 10 Lines Possible?
+This actually might not be possible as the issues with this snippet are the new lines in between the brakets and parenthesis. I feel like it would take over 10 lines to create a functional fix towards these issues as you would have to make a checker for new lines inbetween the brakets and parenthesis which could prove a hassle as youd also have to make a condtion to check if a new line exists.

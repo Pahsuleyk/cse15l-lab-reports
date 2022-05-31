@@ -7,4 +7,11 @@ ___
 [Reviewed Markdown-Parse](https://github.com/katieki/markdown-parser)
 
 ___
-## a
+## Snippet 1
+### Coded Test
+___
+## Snippet 2
+### Coded Test
+___
+## Snippet 3
+### Coded Test

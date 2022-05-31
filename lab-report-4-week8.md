@@ -23,6 +23,8 @@ Unfortunately, my Markdown-Parse failed to pass this test
 ![Reviewed test1](Writeup4_SS/othertest1.png)
 
 Running the test on the reviewed Markdown-Parse repository ended up failing
+
+### Is a Code Change Under 10 Lines Possible?
 ___
 ## Snippet 2
 ### Coded Test
@@ -39,6 +41,8 @@ Unfortunately, my Markdown-Parse failed to pass this test
 ![Reviewed test1](Writeup4_SS/othertest2.png)
 
 Running the test on the reviewed Markdown-Parse repository ended up failing
+
+### Is a Code Change Under 10 Lines Possible?
 ___
 ## Snippet 3
 ### Coded Test
@@ -55,3 +59,5 @@ Unfortunately, my Markdown-Parse failed to pass this test
 ![Reviewed test1](Writeup4_SS/othertest3.png)
 
 Running the test on the reviewed Markdown-Parse repository ended up failing
+
+### Is a Code Change Under 10 Lines Possible?

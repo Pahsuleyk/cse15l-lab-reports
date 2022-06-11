@@ -39,3 +39,9 @@ ___
 Above shown is the test link as well as the outputs from the test. This time only  my version of `MarkdownParse.java` is incorrect.
 
 ![Commonmark 41.md plugin](Writeup5-SS/f41_cmark.png)
+
+By using [the CommonMark demo site](https://spec.commonmark.org/dingus/), we can see that the expected result should be `[]` by plugging in the contents and clicking the preview link.
+
+![f41 snippet error](Writeup5-SS/f41_code.png)
+
+The bug with my implementation of `MarkdownParse.java` is that it outputs whatever is in a set of parenthasis even when it is not a proper hyperlink. In this error, the space within the link makes it an improper hyperlink. Since there is no actual quotation, the space ends up making the hyperlink ineffective. So based on my code snippet, I would have to implement a if statement that skips this line if it detects a space between 2 characters that isn't before or inbetween actual quotations.
